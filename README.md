@@ -22,4 +22,4 @@ Several external packages are needed to run the code
 
 ## Content
 
-The final code is in the project_code.ipynb and the remaining IPython notebooks contain additional coding and explorations. Please see the textual description of the project in project_report.pdf
+The final code is in the project_code.ipynb and the remaining IPython notebooks contain additional coding and explorations. Please see the textual description of the project in project_report.pdf. The file project_proposal.pdf contains on original proposal for this project.
